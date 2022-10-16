@@ -17,7 +17,3 @@
 ## 🕵🏻&nbsp; About Me 
 <a href="https://velog.io/@runprogrmm"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>&nbsp;
 
-<br>
-
-![hyeincha GitHub Stats](https://server.dooboo.io/github-stats-advanced/hyeincha)
-
