@@ -1,9 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=0099ff&fontColor=ffffff&fontAlign=33&height=280&section=header&text=Hello!%20I'm%20hyein&animation=twinkling&fontSize=60&desc=a%20front-end%20developer&descSize=17&descAlign=60)
 
-![hyeincha GitHub Stats](https://server.dooboo.io/github-stats-advanced/hyeincha)
-
-<br>
-
 ## 🔗&nbsp; Tech Stack &nbsp;🔗
 <span>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>&nbsp;
@@ -21,4 +17,7 @@
 ## 🕵🏻&nbsp; About Me 
 <a href="https://velog.io/@runprogrmm"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>&nbsp;
 
+<br>
+
+![hyeincha GitHub Stats](https://server.dooboo.io/github-stats-advanced/hyeincha)
 
