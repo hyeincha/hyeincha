@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=0099ff&fontColor=ffffff&fontAlign=30&height=260&section=header&text=Hi!%20I'm%20hyein&animation=twinkling&fontSize=60&desc=a%20front-end%20developer&descSize=17&descAlign=49)
-## 🔗 Tech Stack 🔗
+## 🔗&nbsp; Tech Stack &nbsp;🔗
 <span>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>&nbsp;
@@ -13,6 +13,6 @@
 <img src="https://img.shields.io/badge/StyledComponents-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>&nbsp;
 </span>
   
-## 🕵🏻 About Me 
-<a href="https://velog.io/@runprogrmm"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
-<a href="https://github.com/hyeincha"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a>
+## 🕵🏻&nbsp; About Me 
+<a href="https://velog.io/@runprogrmm"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>&nbsp;
+<a href="https://github.com/hyeincha"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a>&nbsp;
