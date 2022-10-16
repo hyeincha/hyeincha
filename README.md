@@ -15,6 +15,5 @@
   
 ## 🕵🏻&nbsp; About Me 
 <a href="https://velog.io/@runprogrmm"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>&nbsp;
-<a href="https://www.notion.so/gaebalcha/TIL-WIL-0b7a7b7ab2fe4989bb286169ceba4392"><img src="https://img.shields.io/badge/Notion-white?style=flat-square&logo=Notion&logoColor=black"/></a>&nbsp;
 
 
