@@ -15,3 +15,4 @@
   
 ## 🕵🏻 About Me 
 <a href="https://velog.io/@runprogrmm"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
+<a href="https://github.com/hyeincha"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a>
