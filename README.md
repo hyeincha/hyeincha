@@ -11,6 +11,8 @@
 <img src="https://img.shields.io/badge/Remix-grey?style=flat-square&logo=Remix&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/ReactQuery-FF4154?style=flat-square&logo=ReactQuery&logoColor=white"/>&nbsp;
++ &nbsp;<img src="https://img.shields.io/badge/Docusaurus-32cc5f?style=flat-square&logo=Docusaurus&logoColor=white"/>&nbsp;
+  
   
 ## 🕵🏻&nbsp; About Me 
 <a href="https://velog.io/@runprogrmm"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>&nbsp;
