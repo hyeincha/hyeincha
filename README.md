@@ -8,10 +8,8 @@
 <img src="https://img.shields.io/badge/Typescript-blue?style=flat-square&logo=Typescript&logoColor=white"/>&nbsp;
 <br>
 <img src="https://img.shields.io/badge/React-0099c3?style=flat-square&logo=React&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Remix-grey?style=flat-square&logo=Remix&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/ReactQuery-FF4154?style=flat-square&logo=ReactQuery&logoColor=white"/>&nbsp;
-+ &nbsp;<img src="https://img.shields.io/badge/Docusaurus-32cc5f?style=flat-square&logo=Docusaurus&logoColor=white"/>&nbsp;
   
   
 ## 🕵🏻&nbsp; About Me 
