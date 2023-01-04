@@ -9,9 +9,9 @@
 <br>
 <img src="https://img.shields.io/badge/React-0099c3?style=flat-square&logo=React&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/ReactQuery-FF4154?style=flat-square&logo=ReactQuery&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/react%E2%80%93query-FF4154?style=flat-square&logo=ReactQuery&logoColor=white"/>&nbsp;
   
   
-## 🕵🏻&nbsp; About Me 
+## 🔍&nbsp; About Me 
 <a href="https://velog.io/@runprogrmm"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>&nbsp;
 
